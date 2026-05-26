@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only You For Me
+
+This log tracks the cryptographic history and versioning for the song **Only You For Me** (only-you-for-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:34:27.524319 | `v1` | `f56af87f292082037ff178a9fefee8f513e6535ac4078c5ed260afd3eaab51f5` | `9d87d88a04796da0d78963aa71f11112266a1979719c392edac9dc2f23945dbf` | `2026-05-26_only-you-for-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
